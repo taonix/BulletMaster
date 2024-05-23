@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: center;">
-  <img src="./src/icon.png" width="32" alt="icon" style="margin-right: 10px;"/>
+  <img src="./src/icon.png" width="64" alt="icon" style="margin-right: 10px;"/>
   <h1 style="margin: 0;">Bullet Master</h1>
 </div>
 
